@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlazorTodoApp1/1.0.0": {
+        "runtime": {
+          "BlazorTodoApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorTodoApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
